@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(82): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(137,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(155,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(170,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(170,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(185,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(185,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(186,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(186,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(242,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(242,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Microsoft (R) Incremental Linker Version 14.24.28315.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:C:\Users\User\Downloads\Index_x7\Index_x7\Release\Index_x7.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\User\Downloads\Index_x7\Index_x7\Release\Index_x7.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF "/PGD:C:\Users\User\Downloads\Index_x7\Index_x7\Release\Index_x7.pgd" /LTCG:PGOptimize /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\User\Downloads\Index_x7\Index_x7\Release\Index_x7.lib" /MACHINE:X86 /SAFESEH Release\MinHook.res 
+  Release\Source.obj 
+LINK : fatal error LNK1266: error reading instrumentation file 'C:\Users\User\Downloads\Index_x7\Index_x7\Release\Index_x7.pgd'; File not found

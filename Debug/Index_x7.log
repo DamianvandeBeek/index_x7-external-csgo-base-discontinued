@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(82): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(137,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(136): message : see declaration of 'Vector3'
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(155,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(170,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(170,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(185,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(185,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(186,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(186,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(242,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(242,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Downloads\Index_x7\Index_x7\Source.cpp(42): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  Index_x7.vcxproj -> C:\Users\User\Downloads\Index_x7\Index_x7\Debug\Index_x7.exe
